@@ -1,0 +1,6 @@
+jax 
+einops
+flax
+optax
+torch
+torchvision
