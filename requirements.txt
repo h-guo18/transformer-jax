@@ -4,3 +4,4 @@ flax
 optax
 torch
 torchvision
+flaxmodels
